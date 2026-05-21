@@ -25,7 +25,7 @@ Acredito que cada projeto é uma oportunidade de aprender e evoluir, e é com es
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Vausnicler?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://img.shields.io/github/stars/Vausnicler?style=for-the-badge&logo=starship&color=55960c&labelColor=488207&label=estrelas"
         />
     </a>
     <a href="https://www.linkedin.com/in/vausniclerfurin/" target="_blank"> 
