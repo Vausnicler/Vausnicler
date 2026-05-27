@@ -10,7 +10,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Vausnicler Furin, tenho 33 anos. Formado em Análise e Desenvolvimento de Sistemas pela Unicive, estou em plena transição para a área de tecnologia — construindo uma base sólida em desenvolvimento web com foco em WordPress, Unbounce, Docker e N8N.
+Me chamo Vausnicler Furin, tenho 33 anos e sou natural de São Paulo. Formado em Análise e Desenvolvimento de Sistemas pela Unicive, estou em plena transição para a área de tecnologia — construindo uma base sólida em desenvolvimento web com foco em WordPress, Unbounce, Docker e N8N.
 Acredito que cada projeto é uma oportunidade de aprender e evoluir, e é com essa mentalidade que venho desenvolvendo minhas habilidades na prática. Você pode acompanhar minha jornada e os projetos que estou construindo pelo meu portfólio "[Vausnicler Furin](https://www.vausnicler.dev)" e pelo meu LinkedIn "[Vausnicler Furin](https://www.linkedin.com/in/vausniclerfurin/)".
 
 <p align="left">
@@ -25,7 +25,7 @@ Acredito que cada projeto é uma oportunidade de aprender e evoluir, e é com es
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://img.shields.io/github/stars/Vausnicler?style=for-the-badge&logo=starship&color=55960c&labelColor=488207&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Vausnicler?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://www.linkedin.com/in/vausniclerfurin/" target="_blank"> 
@@ -41,7 +41,6 @@ Acredito que cada projeto é uma oportunidade de aprender e evoluir, e é com es
   
 
 </p>
-
 
 ### 🤖 Linguagens e Tecnologias
 
